@@ -1,1 +1,1 @@
-"# bitirme-493" 
+# bitirme-493"
